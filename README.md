@@ -10,7 +10,7 @@ It will now detect whether you are needs an ANSMedia Moving Carrier and apply a 
 
 Animated Arrestorwires are WIP
 
-Future update will automatically detect if you Have caught a wire without pressing this button if you are on a ANSMedia carrier. 
+Currently there are 2 ways the arrestor script is activated. If it detects you have caught a cable on a ansmedia carrier it will activate automatically as long as the toolbar is open. (MOVING CARRIER SUPPORT FOR ADVANCED ARRESTOR WIP). Alternatively you can activate the fake arrestors from the simple Catobar Page which will slow you down if you are on ground with tailhook deployed.
 
 Future Update to Change speedoffset so works with any moving carrier also Planned.
 
